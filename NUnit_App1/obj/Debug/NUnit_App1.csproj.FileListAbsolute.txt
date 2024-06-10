@@ -1,0 +1,15 @@
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\bin\Debug\NUnit_App1.exe.config
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\bin\Debug\NUnit_App1.exe
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\bin\Debug\NUnit_App1.pdb
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.csproj.AssemblyReference.cache
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.Form1.resources
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.Properties.Resources.resources
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.csproj.GenerateResource.cache
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.csproj.CoreCompileInputs.cache
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.csproj.CopyComplete
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.exe
+C:\Users\Abde_Siyamend\source\repos\NUnit_App1\NUnit_App1\obj\Debug\NUnit_App1.pdb
